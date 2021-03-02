@@ -4,6 +4,6 @@ Este projeto foi desenvolvido para a disciplina de Ciências de Dados, com o int
 
 Link para o DataAPP: https://previdente.herokuapp.com/
 
-<img src="imagens/1.png" width="400" align="center"/>
+<img src="1.png" width="400" align="center"/>
 
-<img src="imagens/2.png" width="400" align="center"/>
+<img src="2.png" width="400" align="center"/>
